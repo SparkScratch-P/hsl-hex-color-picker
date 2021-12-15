@@ -22,7 +22,6 @@ Use the color wheel to control hue and saturation, or use the bars.
 - S is saturation, from 0-1, and
 - L is lightness, also from 0-1
 
-### Get More : https://sparkscratch-p.github.io/
 
 <h3 align="center">
 ## Have Fun!
@@ -40,5 +39,9 @@ Use the color wheel to control hue and saturation, or use the bars.
 
 <h3 align="center">
 ## Thank You ❤️
+</h3>
+
+<h3 align="center">
+https://sparkscratch-p.github.io/
 </h3>
 
