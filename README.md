@@ -11,7 +11,7 @@ HTML HSL HEX Color Picker ; Pick any color with regulated hue, saturation and li
 
 ---
 
-![image](https://user-images.githubusercontent.com/73777108/146122488-945c53f6-ca8c-4a47-98dd-5f45e3a103af.png)
+[![image](https://user-images.githubusercontent.com/73777108/146122488-945c53f6-ca8c-4a47-98dd-5f45e3a103af.png)](https://sparkscratch-p.github.io/hsl-hex-color-picker/)
 
 
 Use the color wheel to control hue and saturation, or use the bars.
